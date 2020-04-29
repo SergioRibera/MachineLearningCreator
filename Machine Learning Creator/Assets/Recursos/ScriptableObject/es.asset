@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbc001b8026b3d14fad1c6468e8fc7d8, type: 3}
+  m_Name: es
+  m_EditorClassIdentifier: 
+  LanguajeName: es
+  Contenido:
+    Keys:
+    - "T\xEDtulo"
+    - Btn_DiagramaDeFlujo
+    - Btn_MachineLearning
+    - Element_Proceso
+    - Element_Condicion
+    - Element_Aprendizaje
+    - Elemento_Almacenamiento
+    - Btn_CreateProyect
+    - Text_Loading
+    - Button_DeleteProyectInMenu
+    Values:
+    - "Creador de aprendizaje autom\xE1tico"
+    - Diagrama De Flujo
+    - "Creador de aprendizaje autom\xE1tico"
+    - Process
+    - Condition
+    - Learning
+    - Storage
+    - Crear
+    - Cargando ...
+    - Eliminar

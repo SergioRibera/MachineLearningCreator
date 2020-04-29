@@ -1,0 +1,15 @@
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\bin\Debug\Machine Learning Creator Enginer Main.exe.config
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\bin\Debug\Machine Learning Creator Enginer Main.exe
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\bin\Debug\Machine Learning Creator Enginer Main.pdb
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\obj\Debug\Machine Learning Creator Enginer Main.csprojAssemblyReference.cache
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\obj\Debug\Machine_Learning_Creator_Enginer_Main.FormMain.resources
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\obj\Debug\Machine_Learning_Creator_Enginer_Main.Properties.Resources.resources
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\obj\Debug\Machine Learning Creator Enginer Main.csproj.GenerateResource.cache
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\obj\Debug\Machine Learning Creator Enginer Main.csproj.CoreCompileInputs.cache
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\obj\Debug\Machine Learning Creator Enginer Main.exe
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\obj\Debug\Machine Learning Creator Enginer Main.pdb
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\bin\Debug\Newtonsoft.Json.dll
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\bin\Debug\Newtonsoft.Json.xml
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\obj\Debug\Machine Learning Creator Enginer Main.csproj.CopyComplete
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\obj\Debug\Machine_Learning_Creator_Enginer_Main.Dialogos.FormLoaderInit.resources
+D:\Sergio\Proyectos\Machine Learning Creator\Builds\Machine Learning Creator Enginer Main\Machine Learning Creator Enginer Main\obj\Debug\Machine_Learning_Creator_Enginer_Main.Dialogos.CreateProyect.resources
